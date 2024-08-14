@@ -6,4 +6,4 @@
 
 ###### Heading 6
 
-Plain Text
+https://harpreet731.github.io/slural-pright-clone/
